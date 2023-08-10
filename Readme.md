@@ -26,6 +26,7 @@ Frontend Setup
 Open a new terminal and navigate to the frontend directory.
 
 Install the frontend dependencies:
+```bash
 cd frontend
 npm install
 npm start
